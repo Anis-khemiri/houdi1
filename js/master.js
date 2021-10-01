@@ -154,7 +154,7 @@ if (backgroundOption === true) {
     // change background image URL
     landingPage.style.backgroundImage = 'url("image/' + imgsArray[randomNumber] +  '")';
     
-},1000);
+},10000);
 }
 
 
